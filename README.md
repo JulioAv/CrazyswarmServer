@@ -2,7 +2,7 @@
 Crazyswarm Server documentation for Robotat comunication.
 ![Crazyswarm-Robotat comunication.](https://github.com/JulioAv/CrazyswarmServer/blob/main/Conexiones.png)
 
-Steps:
+Steps:<br />
 -Download the Crazyswarm-Robotat functions on a different computer and place them in a Matlab folder.<br />
 -Initialize Optitrack cameras and calibrate them with Motive.<br />
 -Place the desired number of Crazyflies in the Robotat.<br />
